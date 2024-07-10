@@ -8,7 +8,7 @@ I'm Andrew Kho Chung Ning, a data analyst enthusiast with a diverse background i
 
 ### About Me
 
-- 🌟 **Current Role: Data Analyst
+- 🌟 **Current Role**: Data Analyst
 - 🔧 **Previous Role**: Support Engineer
 - 💻 **Tech Stack**: 
   - **Frameworks & Libraries**: CodeIgniter, Node.js
